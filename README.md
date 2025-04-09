@@ -13,3 +13,5 @@ On appelle React un Framework Frontend.
 - Tu peux créer des applications SPA (Single Page Applications).
 
 - Il gère automatiquement les mises à jour de l’interface (DOM virtuel).
+
+## Pour comprendre ce cours, voir les commentaires dans [ce fichier](./src/App.js)
